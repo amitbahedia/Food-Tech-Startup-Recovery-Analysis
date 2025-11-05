@@ -54,3 +54,22 @@ Insights into customer recovery potential and engagement behavior
 Actionable recommendations for improving operational efficiency
 
 Data-driven strategies to regain customer trust and market share
+
+
+Dashboard Snippets
+
+
+<img width="2400" height="1319" alt="image" src="https://github.com/user-attachments/assets/789bdd2f-dd36-4dba-89e1-64d0ee062b3a" />
+
+
+<img width="1738" height="841" alt="image" src="https://github.com/user-attachments/assets/4412cd87-ac8a-4855-8732-f932f8561ada" />
+
+
+
+
+
+
+
+
+
+
