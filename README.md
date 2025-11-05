@@ -55,6 +55,7 @@ Actionable recommendations for improving operational efficiency
 
 Data-driven strategies to regain customer trust and market share
 
+Excel File Link : https://1drv.ms/x/c/5aa621c05f040210/EZ6sVeyyvmxEtlpFM_oSAmgBw-QmrPLHcSp8vS02_KwHpQ?e=YseuwV
 
 Dashboard Snippets
 
